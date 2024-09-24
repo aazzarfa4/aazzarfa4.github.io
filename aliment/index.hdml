@@ -85,9 +85,11 @@
 
 <!-- Contingut principal -->
 <div class="content-container">
-    <h1>Benvinguts</h1>
-    <p>Em dic Amal i sóc alumne del curs 4tB de <a href="https://agora.xtec.cat/ies-pompeu-fabra-martorell/">l'institut Pompeu Fabra</a></p>
-    <p>A continuació veuràs un llistat amb diferents projectes que farem durant el curs:</p>
+    <h1>És millor el brocoli ecològic o convencional</h1>
+    <p>He buscat a <a href="https://scholar.com> Google acadèmic</a></p>
+    <p>A He trobat un article escrit per Palma et al.(2023) que analitza si hi ha diferències entre el brocoli cultivat normalment o brocoli convencional
+  i el brocoli cultivat ecològicament pel que fa el contingut de nutrients.He buscat a l'apartat resultats i poso una imatge:</p>
+<img scr="resultats.png">
     <ul>
         <li>Creació d'una obra d'art geomètrica interactiva que reaccioni a la meva veu a través d'un micròfon i a diferents tecles del teclat, al ratolí, que faci moviments repetitius amb sin i cos, moviments aleatoris amb random... Utilitzarem p5.js.</li>
         <li>Aliments ecològics i convencionals amb C++.</li>
