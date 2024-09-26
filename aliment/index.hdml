@@ -86,12 +86,13 @@
 <!-- Contingut principal -->
 <div class="content-container">
     <h1>És millor el brocoli ecològic o convencional</h1>
-    <p>He buscat a <a href="https://scholar.com> Google acadèmic</a></p>
+    <p>He buscat informació a<a href="https://scholar.com> Google acadèmic</a></p>
     <p>A He trobat un article escrit per Erica et al.(2023) que analitza si hi ha diferències entre el brocoli cultivat normalment o brocoli convencional
   i el brocoli cultivat ecològicament pel que fa el contingut de nutrients.He buscat a l'apartat resultats i poso una imatge:</p>
+<h1>Què diu chat gpt sobre el brocoli?</h1>
+<p>Resposta de chat gpt</p>
 <img scr="resultats.png">
-<p> En la imatge de dalt podem veure un gràfic on es compara polifenols, el contingut del qual es mesura en miligrams de compost polifenolper cada gram de brocoli.
-Els compostos són:<p>
+<p>En la imatge de dalt podem veure un gràfic on es compara polifenols, el contingut del qual es mesura en miligrams de compost polifenol per cada gram de brocoli.
     <ul>
                 <li>Aliment ecòlogics i convencionals amb JAVASCRIPT.<7li>
 
@@ -105,8 +106,7 @@ Els compostos són:<p>
 <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.11.8/umd/popper.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js"></script>
-<h1>Què diu chat gpt sobre el brocoli?</h1>
-<p>Resposta de chat gpt</p>
+
 
 </body>
 </html>
