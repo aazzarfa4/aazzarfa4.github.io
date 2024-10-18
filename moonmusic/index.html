@@ -92,9 +92,9 @@ function draw() {
   let b = map(treble, 0, 255, 50, 255);
   let g = map(level, 0, 1, 50, 255);
 
-  noFill();
-  stroke(r, g, b);
-  strokeWeight(3);
+  //noFill();
+  fill(r, g, b);
+  //strokeWeight(3);
 
   // Dibuixar múltiples formes (cors, llunes o arcs de Sant Martí)
   shapes.forEach(shape => {
